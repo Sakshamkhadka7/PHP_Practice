@@ -1,4 +1,4 @@
- :page_facing_up: 
- ## PHP 
+
+ :page_facing_up: **PHP** 
 
 :heavy_check_mark: **Learning PHP from scratch and I have learned all the basic foundation of PHP**   
